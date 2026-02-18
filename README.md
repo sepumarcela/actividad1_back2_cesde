@@ -6,7 +6,7 @@ Nombre completo: Yuly Marcela Sepulveda Sepulveda
 
 Enlace a la instancia:
 * **Enlace a la instancia:** [Prisma Studio - Base de Datos]
-(https://console.prisma.io/cmlogae8q03t214fm4vna2g73/cmlogcdjk03tc14fm3ws0vuue/cmlogcdjk03ta14fmzwi7kfmt/studio)
+(https://console.prisma.io/cmlogae8q03t214fm4vna2g73/cmlogcdjk03tc14fm3ws0vuue/cmlogcdjk03ta14fmzwi7kfmt/studio#table=students&schema=public&view=table?)
 
 
 Configuración de Base de Datos en Prisma.io:
