@@ -35,6 +35,13 @@ postgresql://usuario:****@db.prisma.io:5432/postgres?sslmode=require
 
 ![alt text](image-3.png)
 
+[GET] Obtener por ID
+
+![alt text](image-7.png)
+
+[GET] Obtener por Email
+
+![alt text](image-8.png)
 
 [PUT] Actualizar Registro
 
